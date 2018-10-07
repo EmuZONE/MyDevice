@@ -11,3 +11,11 @@
 <p>009 WiFi-PC-File-Explorer-Pro-v1.5.26</p>
 <p>010 WiFi-Premium-v4.126.04</p>
 <p>011 1Tap-WiFi-Repair-Pro-v7.0.5</p>
+<p>012 3C-System-Tuner-Pro-v3.20.8</p>
+<p>013 SuperSU-Patched-v2.46</p>
+
+
+<p>3C-System-Tuner-Pro-v3.20.8</p>
+<p>3C-System-Tuner-Pro-v3.20.8</p>
+<p>3C-System-Tuner-Pro-v3.20.8</p>
+<p>3C-System-Tuner-Pro-v3.20.8</p>
